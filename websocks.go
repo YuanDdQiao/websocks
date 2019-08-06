@@ -26,7 +26,7 @@ func main() {
 		Usage:       "A secure proxy based on WebSocket.",
 		Description: "websocks.org",
 		Author:      "Halulu",
-		Email:       "lzjluzijie@gmail.com",
+		Email:       "ydq580@gmail.com",
 		Commands: []cli.Command{
 			{
 				Name:    "client",
